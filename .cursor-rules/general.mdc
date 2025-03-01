@@ -1,0 +1,10 @@
+---
+description: Follow these rules for every request
+globs: 
+alwaysApply: true
+---
+- We are building the ultimate content planning app
+- Find the steps in [project_steps.md](mdc:project_steps.md)
+- Go methodically through the steps, one by one 
+- Once a step is completed, mark it as completed, and let me know 
+- If you need any information from me, always ask 
